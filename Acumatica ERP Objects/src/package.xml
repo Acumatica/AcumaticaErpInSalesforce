@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>SF_Invoices__x-SF-Invoices Layout</members>
+        <members>SF_SalesOrders__x-SF-SalesOrders Layout</members>
+        <members>Account-Account Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>SF_Invoices__x</members>
+        <members>SF_SalesOrders__x</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomTab</name>
+    </types>
+    <version>38.0</version>
+</Package>
